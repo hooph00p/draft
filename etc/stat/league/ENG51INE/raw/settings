@@ -1,0 +1,126 @@
+BASIC SETTINGS
+League Name
+ENG51INE
+League Motto
+If your not first your last!
+Number of Teams
+10
+Scoring Type	Head to Head Points
+Format	ESPN Custom
+Make League Viewable to Public
+Yes
+ROSTER
+Current Roster Size: 16
+Total Starters: 10
+Total On Bench: 6
+POSITION	STARTERS	MAXIMUM
+Quarterback (QB)	1	4
+Running Back (RB)	2	4
+Wide Receiver (WR)	3	7
+Tight End (TE)	1	3
+Flex (RB/WR/TE)	1	N/A
+Team Defense/Special Teams (D/ST)	1	3
+Place Kicker (K)	1	3
+Bench (BE)	6	N/A
+SCORING
+Passing
+Every 25 passing yards (PY25)	1		TD Pass (PTD)	4
+Interceptions Thrown (INT)	-2		2pt Passing Conversion (2PC)	2
+Rushing
+Every 10 rushing yards (RY10)	1		TD Rush (RTD)	6
+2pt Rushing Conversion (2PR)	2
+Receiving
+Every 10 receiving yards (REY10)	1		TD Reception (RETD)	6
+2pt Receiving Conversion (2PRE)	2
+Miscellaneous
+Kickoff Return TD (KRTD)	6		Punt Return TD (PRTD)	6
+Fumble Recovered for TD (FTD)	6		Total Fumbles Lost (FUML)	-2
+Interception Return TD (INTTD)	6		Fumble Return TD (FRTD)	6
+Blocked Punt or FG return for TD (BLKKRTD)	6		2pt Return (2PTRET)	2
+1pt Safety (1PSF)	1
+Kicking
+Each PAT Made (PAT)	1		Total FG Missed (FGM)	-1
+FG Made (0-39 yards) (FG0)	3		FG Made (40-49 yards) (FG40)	4
+FG Made (50+ yards) (FG50)	5
+Team Defense / Special Teams
+Each Sack (SK)	1		Interception Return TD (INTTD)	6
+Fumble Return TD (FRTD)	6		Kickoff Return TD (KRTD)	6
+Punt Return TD (PRTD)	6		Blocked Punt or FG return for TD (BLKKRTD)	6
+Blocked Punt, PAT or FG (BLKK)	2		Each Interception (INT)	2
+Each Fumble Recovered (FR)	2		Each Safety (SF)	2
+0 points allowed (PA0)	5		1-6 points allowed (PA1)	4
+7-13 points allowed (PA7)	3		14-17 points allowed (PA14)	1
+28-34 points allowed (PA28)	-1		35-45 points allowed (PA35)	-3
+46+ points allowed (PA46)	-5		Less than 100 total yards allowed (YA100)	5
+100-199 total yards allowed (YA199)	3		200-299 total yards allowed (YA299)	2
+350-399 total yards allowed (YA399)	-1		400-449 total yards allowed (YA449)	-3
+450-499 total yards allowed (YA499)	-5		500-549 total yards allowed (YA549)	-6
+550+ total yards allowed (YA550)	-7		2pt Return (2PTRET)	2
+1pt Safety (1PSF)	1
+TEAM AND DIVISION SETTINGS
+East
+Team Brick	Team Obrien
+Team JD	Team Sofranek
+Team Billy
+West
+Team Baker	Team Green
+Team Turdhurders	Team hare
+Team Morris
+PLAYER RULES
+Observe ESPN's Undroppable Players List
+Yes
+Player Universe
+All NFL Players
+ACQUISITION AND WAIVER RULES
+Lineup Changes
+Lock Individually at Scheduled Gametime
+Player Acquisition System
+Waivers
+Season Acquisition Limit
+No Limit
+Waiver Period
+1 Day
+Waiver Order
+Resets each week to inverse order of standings
+TRADE RULES
+Trade Limit
+No Limit
+Trade Deadline
+Wednesday, November 23, 12PM ET
+Trade Review Period
+2 Days
+Votes Required to Veto Trade
+4
+KEEPERS RULES
+Use Keepers for 2016 Season
+No
+Use Keepers for 2017 Season
+No
+REGULAR SEASON SETUP
+Start of Regular Season
+Week 1 (Start of Season)
+Weeks per Matchup
+1
+Regular Season Matchups
+13 (Playoffs start Week 14)
+Matchup Tie Breaker
+None
+Home Field Advantage
+None
+PLAYOFF BRACKET SETUP
+Playoff Teams
+4 (2 rounds)
+Weeks per Playoff Matchup
+2 weeks per round
+Playoff Seeding Tie Breaker
+Total Points For
+Playoff Home Field Advantage
+None
+DRAFT SETTINGS
+Draft Type	Snake
+Draft Date
+Tuesday, August 30, 2016 at 8:00 PM ET
+Seconds Per Pick
+90
+Draft Order
+Randomized One Hour Prior to Draft Time

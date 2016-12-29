@@ -1,0 +1,96 @@
+[{
+    "name": "Antonio Brown",
+    "nfl_team": "Pit",
+    "position": "WR",
+    "abbreviation": "RYSI"
+}, {
+    "name": "Julio Jones",
+    "nfl_team": "Atl",
+    "position": "WR",
+    "abbreviation": "HOOP"
+}, {
+    "name": "Russell Wilson",
+    "nfl_team": "Sea",
+    "position": "QB",
+    "abbreviation": "RUSS"
+}, {
+    "name": "DeAndre Hopkins",
+    "nfl_team": "Hou",
+    "position": "WR",
+    "abbreviation": "YWK"
+}, {
+    "name": "Odell Beckham Jr.",
+    "nfl_team": "NYG",
+    "position": "WR",
+    "abbreviation": "RUSS"
+}, {
+    "name": "Devonta Freeman",
+    "nfl_team": "Atl",
+    "position": "RB",
+    "abbreviation": "HOOP"
+}, {
+    "name": "Allen Robinson",
+    "nfl_team": "Jax",
+    "position": "WR",
+    "abbreviation": "JUGS"
+}, {
+    "name": "Aaron Rodgers",
+    "nfl_team": "GB",
+    "position": "QB",
+    "abbreviation": "KAR"
+}, {
+    "name": "A.J. Green",
+    "nfl_team": "Cin",
+    "position": "WR",
+    "abbreviation": "YWK"
+}, {
+    "name": "Adrian Peterson",
+    "nfl_team": "Min",
+    "position": "RB",
+    "abbreviation": "TMM"
+}, {
+    "name": "Rob Gronkowski",
+    "nfl_team": "NE",
+    "position": "TE",
+    "abbreviation": "GRIM"
+}, {
+    "name": "Doug Martin",
+    "nfl_team": "TB",
+    "position": "RB",
+    "abbreviation": "TM2"
+}, {
+    "name": "Lamar Miller",
+    "nfl_team": "Hou",
+    "position": "RB",
+    "abbreviation": "TM2"
+}, {
+    "name": "Todd Gurley",
+    "nfl_team": "LA",
+    "position": "RB",
+    "abbreviation": "JC"
+}, {
+    "name": "David Johnson",
+    "nfl_team": "Ari",
+    "position": "RB",
+    "abbreviation": "KAR"
+}, {
+    "name": "Eddie Lacy",
+    "nfl_team": "GB",
+    "position": "RB",
+    "abbreviation": "TMM"
+}, {
+    "name": "Andrew Luck",
+    "nfl_team": "Ind",
+    "position": "QB",
+    "abbreviation": "GRIM"
+}, {
+    "name": "Le'Veon Bell",
+    "nfl_team": "Pit",
+    "position": "RB",
+    "abbreviation": "JC"
+}, {
+    "name": "Dez Bryant",
+    "nfl_team": "Dal",
+    "position": "WR",
+    "abbreviation": "RYSI"
+}]

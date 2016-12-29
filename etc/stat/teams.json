@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "abbreviation": "GRIM",
+    "name": "Chips Murray Up Offense",
+    "owner": {
+        "name": "Grimm"
+    },
+    "roster": [],
+    "pick": 5
+}, {
+    "id": 2,
+    "abbreviation": "TM2",
+    "name": "Team Nenstiel",
+    "owner": {
+        "name": "Nenstiel"
+    },
+    "roster": [],
+    "pick": 1
+}, {
+    "id": 3,
+    "abbreviation": "TMM",
+    "name": "Tickle Me Manzielmo",
+    "owner": {
+        "name": "Pauline"
+    },
+    "roster": [],
+    "pick": 9
+}, {
+    "id": 4,
+    "abbreviation": "JC",
+    "name": "JC and the 5'9\" Wideouts",
+    "owner": {
+        "name": "Shoemaker"
+    },
+    "roster": [],
+    "pick": 4
+}, {
+    "id": 5,
+    "abbreviation": "RUSS",
+    "name": "RusselMania 3",
+    "owner": {
+        "name": "Lawlor"
+    },
+    "roster": [],
+    "pick": 3
+}, {
+    "id": 6,
+    "abbreviation": "JUGS",
+    "name": "Show Me Your Tds",
+    "owner": {
+        "name": "Tanner"
+    },
+    "roster": [],
+    "pick": 2
+}, {
+    "id": 7,
+    "abbreviation": "KAR",
+    "name": "Rodger That!",
+    "owner": {
+        "name": "Rossi"
+    },
+    "roster": [],
+    "pick": 10
+}, {
+    "id": 8,
+    "abbreviation": "YWK",
+    "name": "Yes We Khan",
+    "owner": {
+        "name": "Specht"
+    },
+    "roster": [],
+    "pick": 7
+}, {
+    "id": 9,
+    "abbreviation": "HOOP",
+    "name": "Hooper's Team",
+    "owner": {
+        "name": "Hooper"
+    },
+    "roster": [],
+    "pick": 8
+}, {
+    "id": 10,
+    "abbreviation": "RYSI",
+    "name": "Summer Brees",
+    "owner": {
+        "name": "Simon"
+    },
+    "roster": [],
+    "pick": 6
+}]
